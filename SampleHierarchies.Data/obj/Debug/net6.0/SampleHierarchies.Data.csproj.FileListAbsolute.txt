@@ -1,0 +1,221 @@
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\JSON\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\JSON2\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.1)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Ćzwiczenia Version(1.6)\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Drugie Zdanie\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\src\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Drugie Zdanie1\ProgrammingObjectOriented-main\DALBAEB\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\Zad\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Zadanie OOP\ProgrammingObjectOriented-main\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.deps.json
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.AssemblyReference.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.csproj.CopyComplete
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\refint\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Dla Github\ProgrammingObjectOriented-main\SampleHierarchies.Data\obj\Debug\net6.0\ref\SampleHierarchies.Data.dll
