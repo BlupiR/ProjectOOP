@@ -1,0 +1,55 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Polarbears Screen"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "1. List all polarbears"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "2. Create a new polarbear"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "3. Delete existing polarbear"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "4. Modify existing polarbear"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Please enter your choice"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Going back to parent menu."
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Invalid choice. Try again."
+		}
+	]
+
+}

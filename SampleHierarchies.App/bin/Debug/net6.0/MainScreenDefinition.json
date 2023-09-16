@@ -1,0 +1,50 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Main Screen"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "1. Animals"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "2. Update color settings"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Please enter your choice:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Enter the name of the screen you want to change:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Goodbye."
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Invalid choice. Try again."
+		}
+	]
+
+}

@@ -1,0 +1,55 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Dogs Screen"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "1. List all dogs"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "2. Create a new dog"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "3. Delete existing dog"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "4. Modify existing dog"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Please enter your choice."
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Going back to parent menu."
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Invalid choice. Try again."
+		}
+	]
+
+}

@@ -1,0 +1,55 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Elephants Screen"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "1. List all elephants"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "2. Create a new elephant"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "3. Delete existing elephant"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "4. Modify existing elephant"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Please enter your choice:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Going back to parent menu."
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Invalid choice. Try again."
+		}
+	]
+
+}

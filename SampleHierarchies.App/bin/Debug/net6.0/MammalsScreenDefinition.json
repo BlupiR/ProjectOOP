@@ -1,0 +1,55 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Mammals Screen"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "1. Dogs"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "2. Lions"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "3. Elephants"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "Yellow",
+			"Text": "4. Polarbears"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Please enter your choice"
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Going back to parent menu."
+		},
+		{
+			"BackgroundColor": "Black",
+			"ForegroundColor": "White",
+			"Text": "Invalid choice. Try again."
+		}
+	]
+
+}
