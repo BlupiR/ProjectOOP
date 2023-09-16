@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWrqKRYf4jUnRFEBBcOV+AdbdUwhAeJk7es6tQeDyhcaIgBqOnuM1TV7/YQVQ5wcZ9YZe20yIeEgV/6e5IIP8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kacha\\OneDrive\\Рабочий стол\\Dla Github\\ProgrammingObjectOriented-main\\SampleHierarchies.Gui\\SampleHierarchies.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kacha\\.nuget\\packages\\peanutbutter.tinyeventaggregator\\3.0.177\\peanutbutter.tinyeventaggregator.3.0.177.nupkg.sha512"
+  ],
+  "logs": []
+}
